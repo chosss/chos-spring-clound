@@ -3,10 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chos-spring-cloud.iml" filepath="$PROJECT_DIR$/chos-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client/client-config.iml" filepath="$PROJECT_DIR$/config-client/client-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/eurekaclient/eurekaclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaclient-2/eurekaclient-2.iml" filepath="$PROJECT_DIR$/eurekaclient-2/eurekaclient-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/server-zipkin/server-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-config/service-config.iml" filepath="$PROJECT_DIR$/service-config/service-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-miya/service-miya.iml" filepath="$PROJECT_DIR$/service-miya/service-miya.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/service-zuul/service-zuul.iml" />
     </modules>
