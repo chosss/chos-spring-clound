@@ -12,3 +12,5 @@ gen
 /*/target/
 /*/target/*
 /.gitignore
+/eurekaclient-2/target/classes/com/example/demo/ServiceHiApplication.class
+/.idea/workspace.xml
